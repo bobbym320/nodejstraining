@@ -1,0 +1,31 @@
+{
+  "name": "proxyserver_prework",
+  "version": "1.0.0",
+  "description": "Proxy Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --exec babel-node -- index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobbymangattoor/nodejstraining.git"
+  },
+  "keywords": [
+    "proxyserver"
+  ],
+  "author": "bobby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobbymangattoor/nodejstraining/issues"
+  },
+  "homepage": "https://github.com/bobbymangattoor/nodejstraining#readme",
+  "dependencies": {
+    "fs": "0.0.2",
+    "localhost": "^0.2.2",
+    "path": "^0.12.7",
+    "request": "^2.67.0",
+    "through": "^2.3.8",
+    "yargs": "^3.31.0"
+  }
+}
