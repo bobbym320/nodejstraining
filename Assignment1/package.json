@@ -1,0 +1,24 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "A CLI Utilities Boilerplate",
+  "main": "index.js",
+  "dependencies": {
+    "path": "^0.12.7",
+    "yargs": "^3.31.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobbymangattoor/nodejstraining.git"
+  },
+  "author": "bobby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobbymangattoor/nodejstraining/issues"
+  },
+  "homepage": "https://github.com/bobbymangattoor/nodejstraining#readme"
+}
